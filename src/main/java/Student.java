@@ -39,4 +39,5 @@ public class Student {
     public void setClassList(String classList) {
         this.classList = classList;
     }
+
 }
